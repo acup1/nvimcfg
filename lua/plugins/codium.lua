@@ -9,6 +9,3 @@ return {
     config = function() require("codeium").setup {} end,
   },
 }
-
--- Failed to load `plugins.codium`:
--- /home/acup/.config/nvim/lua/plugins/codium.lua:1: unexpected symbol near '{'
